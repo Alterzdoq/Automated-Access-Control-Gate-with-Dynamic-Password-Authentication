@@ -1,0 +1,2 @@
+# Automated-Access-Control-Gate-with-Dynamic-Password-Authentication
+With this program, you generate and set a passcode out of four digits. After setting, you are asked to enter the passcode. If it's correct, a sensor activates, and if that sensor senses a close object, a gate opens. This can be used to model password/parking verification. This is built with an Arduino Uno, Servo Mini, and Ultrasonic Sensor.
